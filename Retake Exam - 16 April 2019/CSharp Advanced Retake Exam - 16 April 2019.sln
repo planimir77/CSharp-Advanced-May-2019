@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrojanInvasion", "01. Trojan Invasion\TrojanInvasion.csproj", "{20E5CD70-E0C0-4031-A513-1259FF874E1F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelensAbduction", "Helen'sAbduction\HelensAbduction.csproj", "{9E4B6B7C-3C59-45A8-BB3A-39ADB80E88AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelensAbductionTest", "HelensAbductionTest\HelensAbductionTest.csproj", "{99110495-8385-4400-AFF6-D770A622CE84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrojanInvasionJoker", "TrojanInvasionJoker\TrojanInvasionJoker.csproj", "{1D429ADE-DB8C-4DC8-A000-80A2C63E6230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20E5CD70-E0C0-4031-A513-1259FF874E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20E5CD70-E0C0-4031-A513-1259FF874E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20E5CD70-E0C0-4031-A513-1259FF874E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20E5CD70-E0C0-4031-A513-1259FF874E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E4B6B7C-3C59-45A8-BB3A-39ADB80E88AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E4B6B7C-3C59-45A8-BB3A-39ADB80E88AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E4B6B7C-3C59-45A8-BB3A-39ADB80E88AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E4B6B7C-3C59-45A8-BB3A-39ADB80E88AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99110495-8385-4400-AFF6-D770A622CE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99110495-8385-4400-AFF6-D770A622CE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99110495-8385-4400-AFF6-D770A622CE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99110495-8385-4400-AFF6-D770A622CE84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D429ADE-DB8C-4DC8-A000-80A2C63E6230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D429ADE-DB8C-4DC8-A000-80A2C63E6230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D429ADE-DB8C-4DC8-A000-80A2C63E6230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D429ADE-DB8C-4DC8-A000-80A2C63E6230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5F944D0-15E2-404D-A86E-DBBF6E1E594D}
+	EndGlobalSection
+EndGlobal
